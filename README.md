@@ -34,4 +34,4 @@ Step 7 - Save and export diagrams as images or PDF.
 ![image](https://github.com/user-attachments/assets/4698169a-d0d9-425a-adf9-bda6b78dbde0)
 
 # RESULT:
-Thus, the Student Online Exam Registration System was created successfully.
+Thus the Student Online Exam Registration System was created successfully.
